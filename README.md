@@ -1,4 +1,4 @@
-# api_data_wrangling_mini_project
+# Api_data_wrangling_mini_project
 Practice new data wrangling techniques using API. I'm going to use the Quandl free API to perform the data wrangling and find out the following  
 1. Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2020
 2. Convert the returned JSON object into a Python dictionary.
